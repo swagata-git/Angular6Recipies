@@ -1,0 +1,5 @@
+# Angular 6 Practice Concepts:
+1. Roting with Lazy Loading, Interceptor, Resolver, router-outlet.
+2. Parent, child, sibling components communication using @Input, @Output, @ViewChild, Shared Service (Subject or Pub Sub).
+3. Component Lifecycle methods and it's use to access Dom elements, Add Extarnel JS Libs, ng-content, 
+4. 
